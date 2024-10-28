@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f331e8ee-c76c-46c0-87ec-601d01b7435e)## Hi there 👋
+## Hi there 👋
 -->
 
 # My name is Alex Chavez
@@ -23,9 +23,9 @@
 ## Tools
 | Tool    | Image  |
 |---------|--------|
-| Python  | ![Python]([link_to_python_image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjunilearning.com%2Fblog%2Fguide%2Fwhat-is-python-101-for-students%2F&psig=AOvVaw2g6KIhAFNoHdtZyut_lROI&ust=1730234824947000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjYrJL5sYkDFQAAAAAdAAAAABAE)) |
-| R       | ![R]([link_to_r_image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FR_%2528programming_language%2529&psig=AOvVaw0ipTJeE7YkxXt7doZ0LRmn&ust=1730234853297000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDE7J_5sYkDFQAAAAAdAAAAABAE)) |
-| SQL     | ![SQL]([link_to_sql_image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-microsoft-sql-server-mysql-database-logo-2447831%2F&psig=AOvVaw3B6PQF7k3mTBV3xgAacvAy&ust=1730234878206000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjx4Kv5sYkDFQAAAAAdAAAAABAE)) |
+| Python  | ![Python]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fjunilearning.com%2Fblog%2Fguide%2Fwhat-is-python-101-for-students%2F&psig=AOvVaw2g6KIhAFNoHdtZyut_lROI&ust=1730234824947000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjYrJL5sYkDFQAAAAAdAAAAABAE)) |
+| R       | ![R]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FR_%2528programming_language%2529&psig=AOvVaw0ipTJeE7YkxXt7doZ0LRmn&ust=1730234853297000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDE7J_5sYkDFQAAAAAdAAAAABAE)) |
+| SQL     | ![SQL]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-microsoft-sql-server-mysql-database-logo-2447831%2F&psig=AOvVaw3B6PQF7k3mTBV3xgAacvAy&ust=1730234878206000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjx4Kv5sYkDFQAAAAAdAAAAABAE)) |
 | C       | ![C](![image](https://github.com/user-attachments/assets/7cd0c43b-6f25-4e41-9a32-5d8a60e579f2)
 ) |
 | C#      | ![C#]([link_to_csharp_image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-eduyx&psig=AOvVaw0SynlFvg4Q4pknwcMiiY--&ust=1730234901275000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiN8Lb5sYkDFQAAAAAdAAAAABAE)) |
