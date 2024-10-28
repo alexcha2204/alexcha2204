@@ -18,13 +18,12 @@
 - Data Engineering
 
 ## Tools
-| Tool    | Image  |
-|---------|--------|
-| Python  | ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) |
-| R       | ![R](https://www.r-project.org/logo/Rlogo.png) |
-| SQL     | ![SQL](https://upload.wikimedia.org/wikipedia/commons/2/24/SQL_Logo.svg) |
-| C       | ![C](https://upload.wikimedia.org/wikipedia/commons/3/3f/The_C_Programming_Language_logo.svg) |
-| C#      | ![C#](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png) |
-| Java    | ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg) |
+- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
+- ![R](https://www.r-project.org/logo/Rlogo.png) R
+- ![SQL](https://upload.wikimedia.org/wikipedia/commons/2/24/SQL_Logo.svg) SQL
+- ![C](https://upload.wikimedia.org/wikipedia/commons/3/3f/The_C_Programming_Language_logo.svg) C
+- ![C#](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png) C#
+- ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg) Java
+
 
 
